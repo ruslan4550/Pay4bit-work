@@ -1,0 +1,11 @@
+name = "yevrolato-pay"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+PAY4BIT_PUBLIC_KEY = "36cf4-712"
+ALLOWED_ORIGINS = ""          # məs: "https://sənin-saytın.com" (boş = hamısı)
+FX_MARGIN_PERCENT = "0"
+PAY4BIT_CARD_PS = ""
+PAY4BIT_GOOGLE_PS = ""
+PAY4BIT_APPLE_PS = ""
